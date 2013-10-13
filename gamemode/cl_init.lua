@@ -20,6 +20,7 @@ include("cl_ship.lua")
 include("cl_ships.lua")
 include("cl_universe.lua")
 include("cl_scoreboard.lua")
+include("sh_helpmenu.lua")
 
 WHITE = Material("vgui/white")
 CIRCLE = Material("circle.png", "smooth")
