@@ -14,6 +14,7 @@ include("sh_weapons.lua")
 include("sh_sgui.lua")
 include("sh_systems.lua")
 include("sv_ships.lua")
+include("sh_helpmenu.lua")
 
 -- Resources
 
