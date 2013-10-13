@@ -6,5 +6,6 @@ AddCSLuaFile("cl_ships.lua")
 AddCSLuaFile("cl_universe.lua")
 AddCSLuaFile("cl_scoreboard.lua")
 AddCSLuaFile("sh_teams.lua")
+AddCSLuaFile("sh_helpmenu.lua")
 
 include("sv_init.lua")
